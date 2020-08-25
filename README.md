@@ -3,15 +3,15 @@
 ## Task
 
 Create the app shown in Figma visual: https://www.figma.com/file/grIvbXgoA5baU14L7QPWqn/Junior-Interview-Task?node-id=0%3A1
+
 When a user clicks an image, the 'No Image Selected' text should be updated to the authors name.
 
 ## Notes
 
 - Invoice Maker logo is in /assets folder.
-- Get the data for the images from this endpoint: https://picsum.photos/v2/list?page=2&limit=12
-- Use Axios to get the data.
+- Use Axios to get the data for the images from this endpoint: https://picsum.photos/v2/list?page=2&limit=12
 - Red text on visual is for measurements only, and should not be added to app.
-- Up to you do decide the breakpoint between mobile & desktop.
+- Up to you to decide the breakpoint between mobile & desktop.
 - Do not worry about fonts.
 
 ## Scripts
